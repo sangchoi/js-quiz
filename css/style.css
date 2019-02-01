@@ -13,6 +13,7 @@ body {
 
 header {
     grid-area: header;
+    font-size: 3rem;
 }
 
 #timerDiv {
